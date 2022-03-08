@@ -1,0 +1,11 @@
+
+
+#write a program to combine  two strings
+
+str1=input()
+
+str2=input()
+
+str3=str1+str2
+
+print('The combination of two strings:',str3)
